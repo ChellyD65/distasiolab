@@ -1,37 +1,6 @@
 ## DiStasio Lab
+Our focus is on diseases of the central nervous system, including immune dysregulation, neurodegeneration, motor system diseases, and cancer. We develop new techniques in computational pathology in order to better understand and diagnose diseases. This involves the application of machine learning, image analysis, and statistics to histologic, genomic, clinical, and physiologic data.  Our overall goal is to better characterize and classify the pathologic populations of central nervous system cells, and their interactions with their local microenvionment to understand pathways implicated in disease and uncover new therapeutic targets.
 
-You can use the [editor on GitHub](https://github.com/ChellyD65/distasiolab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We develop  software that analyzes histologic images taken from the kinds of slides produced in the routine clinical evaluation of tissue.  By using statistical and machine learning techniques, these algorithms look for patterns in cell placement and morphology that correspond to the tissue genetic profiles. We believe this simultaneous genotypic and phenotypic characterization of tissue will provide a deeper understanding key microenvironments whose interactions advance our explanations and predictions of overall disease behavior and treatment response.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChellyD65/distasiolab/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
