@@ -29,6 +29,7 @@ GEM
       faraday-net_http (~> 2.0)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (2.0.3)
+    fastimage (2.2.6)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -123,6 +124,9 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-image-size (1.2.1)
+      fastimage (>= 1.8)
+      jekyll (>= 3.7)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.6.0)
@@ -262,6 +266,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.6)
+  jekyll-image-size (~> 1.2)
   kramdown-parser-gfm
   webrick
 
