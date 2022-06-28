@@ -10,17 +10,7 @@
 
 ---
 
-{: align-right}
 
-[<span style="color:black; font-size: 1.4em;">[software]</span>]({{ site.url }}{% link software.md %})
-
-{: align-right}
-
-[<span style="color:black; font-size: 1.4em;">[publications]</span>]({{ site.url }}{% link publications.md %})
-
-
-
----
 
 ![image tooltip here](/assets/img/Yale_Lymphocytes_HandE.jpg){:height="60px"} &nbsp; ![image tooltip here](/assets/img/BrainIcon_NoBorder.png){:height="60px"} &nbsp; ![image tooltip here](/assets/img/ysm_shield.jpg){:height="60px"} 
 {: align-center}
