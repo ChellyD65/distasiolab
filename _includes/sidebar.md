@@ -12,17 +12,25 @@
 
 {: align-right}
 
+[<span style="color:black; font-size: 1.4em;">[lab]</span>]({{ site.url }}{% link about.md %})
+
+{: align-right}
+
 [<span style="color:black; font-size: 1.4em;">[software]</span>]({{ site.url }}{% link software.md %})
 
 {: align-right}
 
 [<span style="color:black; font-size: 1.4em;">[publications]</span>]({{ site.url }}{% link publications.md %})
 
+{: align-right}
+
+[<span style="color:black; font-size: 1.4em;">[jobs]</span>]({{ site.url }}{% link jobs.md %})
+
 
 
 ---
 
-![image tooltip here](/assets/img/Yale_Lymphocytes_HandE.jpg){:height="60px"} &nbsp; ![image tooltip here](/assets/img/BrainIcon_NoBorder.png){:height="60px"} &nbsp; ![image tooltip here](/assets/img/ysm_shield.jpg){:height="60px"} 
+![YCFNI logo](/assets/img/Yale_Lymphocytes_HandE.jpg){:height="60px"} &nbsp; ![Brain icon](/assets/img/BrainIcon_NoBorder.png){:height="60px"} &nbsp; ![YSM sheild](/assets/img/ysm_shield.jpg){:height="60px"} 
 {: align-center}
 
 
