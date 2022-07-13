@@ -26,16 +26,16 @@
         <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
 
         {% if site.logo %}
+	<p align=right>
 	<a href="{{ "/" | absolute_url }}">
-	  <img src="{{site.logo | relative_url}}" alt="Logo" />
-	</a>          
+	  <img src="{{site.logo | relative_url}}" alt="Logo" height=218px/>
+	</a>
+	</p>
         {% endif %}
-
 	<p>
 	{% capture sidebar %}{% include sidebar.md %}{% endcapture %}
 	{{ sidebar | markdownify }}
 	</p>
-	
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}

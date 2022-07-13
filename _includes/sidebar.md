@@ -6,27 +6,23 @@
 <marcello.distasio@yale.edu>
 {: align-right}
 
-&nbsp;
-
 ---
 
 {: align-right}
 
-[<span style="color:black; font-size: 1.4em;">[lab]</span>]({{ site.url }}{% link about.md %})
+[<span style="color:black; font-size: 1.2em;">[lab]</span>]({{ site.url }}{% link about.md %})
 
 {: align-right}
 
-[<span style="color:black; font-size: 1.4em;">[software]</span>]({{ site.url }}{% link software.md %})
+[<span style="color:black; font-size: 1.2em;">[software]</span>]({{ site.url }}{% link software.md %})
 
 {: align-right}
 
-[<span style="color:black; font-size: 1.4em;">[publications]</span>]({{ site.url }}{% link publications.md %})
+[<span style="color:black; font-size: 1.2em;">[publications]</span>]({{ site.url }}{% link publications.md %})
 
 {: align-right}
 
-[<span style="color:black; font-size: 1.4em;">[jobs]</span>]({{ site.url }}{% link jobs.md %})
-
-
+[<span style="color:black; font-size: 1.2em;">[jobs]</span>]({{ site.url }}{% link jobs.md %})
 
 ---
 
