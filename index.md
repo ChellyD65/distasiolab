@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Computational Biology in Neurologic Disease
--------------------------------------------
+Computational Biology in Neurologic Diseases
+--------------------------------------------
 
 ![Banner](/assets/img/Banner.png){:width="100%"} &nbsp;
 
