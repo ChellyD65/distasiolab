@@ -18,5 +18,6 @@ Dean Pucciarelli - Post-graduate Research Associate
 
 <br>
 
+![Sydney Zink headshot](/assets/img/lab_member_photos/SydneyZink.jpg){:height="120px"} &nbsp; 
 Sydney Zink - Post-graduate Research Associate / Software Engineer
 : Sydney (Syd) Zink is a postbac researcher with computational expertise in NLP (natural language processing) and data science, having done graduate work in computer science at Cornell, UChicago, and Brown since undergraduate training in economics, computer science, and communications at Northwestern University. They have published in realms ranging from distributed systems and usable security to, most recently, ML/AI ethics in medicine. They have additional interests in firefighting and EMS, intent on merging these passions with their technical and research passions as their cross-disciplinary career progresses.
