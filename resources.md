@@ -12,7 +12,7 @@ Some pieces of custom designed laboratory hardware useful for preparing human ti
 
 #### Brain holder for cutting
 
-A basin and knife guide for reproducible symmetric coronal sections in brain cutting.  May be most useful in supporting unfixed brains for sectioning.
+A basin and knife guide for reproducible symmetric coronal sections in brain cutting.  May be most useful in supporting unfixed brains for sectioning. [credit: M. Kandarapallil]
 
 
 ![BrainHolderModel](/assets/img/BrainHolder_model_and_photo_001.jpg){:width="95%"} &nbsp; 
