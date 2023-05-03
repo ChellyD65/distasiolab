@@ -18,6 +18,10 @@
 
 {: align-right}
 
+[<span style="color:black; font-size: 1.2em;">[resources]</span>]({{ site.url }}{% link resources.md %})
+
+{: align-right}
+
 [<span style="color:black; font-size: 1.2em;">[publications]</span>]({{ site.url }}{% link publications.md %})
 
 {: align-right}
