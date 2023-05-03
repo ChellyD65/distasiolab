@@ -23,6 +23,8 @@ Model STL file: [BrainHolder_v4.stl](/assets/etc/BrainHolder_v4.stl)
 
 Provides ruler guides for marking an 'X' to locate the center point of standard 3" x 1" glass slides.
 
+![SlideDiagGuideModel](/assets/img/SlideDiagonalGuide.jpg){:width="95%"} &nbsp; 
+Model STL file: [SlideDiagonalGuide.stl](/assets/etc/SlideDiagonalGuide.stl)
 
 
 
