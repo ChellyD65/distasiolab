@@ -6,9 +6,11 @@ permalink: /publications/
 Publications
 ------------
 
-* Kuchroo M*, DiStasio M*, Song E*, Calapkulu E, Zhang L, Ige M, Sheth AH, Menon M, Tong A, Godavarthi A, Xing Y, Gigante S, Steach H, Huang J, Huguet G, Narain J, You K, Mourgkos G, Dhodapkar RM, Hirn MJ, Rieck B, Wolf G, Krishnaswamy S, Hafler BP. Single-cell analysis reveals inflammatory interactions driving macular degeneration. Nature Communications. 2023. In press.  [[pdf]](/assets/pdf/2023_AMD_DC_preprint.pdf)
+* Kuchroo M\*, DiStasio M\*, Song E\*, Calapkulu E, Zhang L, Ige M, Sheth AH, Menon M, Tong A, Godavarthi A, Xing Y, Gigante S, Steach H, Huang J, Huguet G, Narain J, You K, Mourgkos G, Dhodapkar RM, Hirn MJ, Rieck B, Wolf G, Krishnaswamy S, Hafler BP. Single-cell analysis reveals inflammatory interactions driving macular degeneration. Nat Commun. 2023 May 5;14(1):2589. doi: 10.1038/s41467-023-37025-7. PMID: 37147305; PMCID: PMC10162998. [[pdf]](/assets/pdf/2023_AMD_DC_preprint.pdf)
 
 * Fan R, Liu Y, DiStasio M, Su G, Asashima H, Enninful A, Qin X, Deng Y, Bordignon P, Cassano M, Tomayko M, Xu M, Halene S, Craft J, Hafler D. Spatial-CITE-seq: spatially resolved high-plex protein and whole transcriptome co-mapping. Nat Biotechnol. 2023 Feb 23. doi: 10.1038/s41587-023-01676-0. Epub ahead of print. PMID: 36823353. <i>Preprint</i> [[pdf]](/assets/pdf/2022_Spatial-CITE-seq.pdf)
+
+* Hanin A, Cespedes J, Huttner A, Strelnikov D, Gopaul M, DiStasio M, Vezzani A, Hirsch LJ, Aronica E. Neuropathology of New-Onset Refractory Status Epilepticus (NORSE). J Neurol. 2023 Apr 20. doi: 10.1007/s00415-023-11726-x. Epub ahead of print. PMID: 37079033. [[pdf]](assets/pdf/2023_NORSE_Neuropathology.pdf)
 
 * Suster DI, Craig Mackinnon A, DiStasio M, Basu MK, Pihan G, Suster S. Atypical thymomas with squamoid and spindle cell features: clinicopathologic, immunohistochemical and molecular genetic study of 120 cases with long-term follow-up. Mod Pathol. 2022 Feb 10. doi: 10.1038/s41379-022-01013-x. Epub ahead of print. PMID: 35145198. [[pdf]](/assets/pdf/2022_Atypical_thymomas.pdf)
 
