@@ -43,5 +43,6 @@
 ### Address:
 {: align-right}
 300 George St. Room 353D<br>
-New Haven, CT, 06510
+New Haven, CT, 06510<br>
+[[map]](https://goo.gl/maps/Cm3NP2muaYdUqAFEA)
 {: align-right}
