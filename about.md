@@ -18,8 +18,8 @@ Sagar Bhatta - Post-graduate Research Associate
 
 <br>
 
-![Jacki Mason headshot](/assets/img/lab_member_photos/JackiMoses.jpg){:height="120px"} &nbsp;
-Jacki Mason - Undergrad researcher
+![Jacki Moses headshot](/assets/img/lab_member_photos/JackiMoses.jpg){:height="120px"} &nbsp;
+Jacki Moses - Undergrad researcher
 : Jacki is a senior undergraduate student at Yale University from North Haven, Connecticut. She is majoring in Neuroscience with aspirations of attending medical school. She is especially interested in neuro-oncology research, with a particular focus on leveraging the power of machine learning for the advancement of brain tumor diagnostics. Outside of working as an intern for Yale Cancer Center and her research in neuro-oncology, Jacki enjoys learning about affordability and equity of medical care and the intersection of healthcare and law.
 
 ### Alumni
