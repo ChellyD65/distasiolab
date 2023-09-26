@@ -16,6 +16,12 @@ PI: Marcello DiStasio
 Sagar Bhatta - Post-graduate Research Associate
 : Sagar completed his bachelor’s degree in medical Biochemistry in Nepal and performed diagnostic tests for cardiac patients in Sahid Gangalal National Heart Center as an intern, and later performed molecular screenings at Decode Genomics and Research Center. During his master’s in Cellular and Molecular Biology at University of New Haven (UNH), he interned at the Connecticut Agricultural Experiment Station where he screened Ixodes scapularis ticks for pathogens causing Lime disease, anaplasmosis and babesiosis and investigated host-feeding patterns in blood-engorged mosquitoes to characterize vector-host-pathogen interactions. He also worked in Dr. Kolc’s lab at UNH on a project screening endomyocardial biopsy samples from patients with myocardial infarction and dilated cardiomyopathy for enteroviruses investigating viral persistence in the heart. He has a keen interest in photography, cinematography and painting.
 
+<br>
+
+![Jacki Mason headshot](/assets/img/lab_member_photos/JackiMoses.jpg){:height="120px"} &nbsp;
+Jacki Mason - Undergrad researcher
+: Jacki is a senior undergraduate student at Yale University from North Haven, Connecticut. She is majoring in Neuroscience with aspirations of attending medical school. She is especially interested in neuro-oncology research, with a particular focus on leveraging the power of machine learning for the advancement of brain tumor diagnostics. Outside of working as an intern for Yale Cancer Center and her research in neuro-oncology, Jacki enjoys learning about affordability and equity of medical care and the intersection of healthcare and law.
+
 ### Alumni
 
 * Dean Pucciarelli
