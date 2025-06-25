@@ -8,7 +8,7 @@ Lab Members
 
 ![M DiStasio headshot](/assets/img/lab_member_photos/MarcelloDiStasio.jpg){:height="120px"} &nbsp; 
 PI: Marcello DiStasio
-: I am a neuropathologist and Assistant Professor of Pathology at the Yale School of Medicine. My background is in biomedical engineering and neuroscience, particularly the development and application of signal processing and image analysis algorithms and techniques for biology. I did my clinical training at Harvard Medical school in Anatomic Pathology (Beth Isreal Deaconess Medical Center) and Neuropathology (Brigham and Women's / Boston Childrens Hospital). Building from my PhD work at SUNY Downstate/NYU-Polytech recording in-vivo electrophysiologic data from awake behaving animals to for neural prostheses, I have developed an interest in furthering our understanding of human neurobiology by applying new algorithms to digital images, particularly in histology, along with physiologic and genomic data. The goals of my current research are to use these tools to explore the interactions between the immune and central nervous system in disease processes such as neurodegeneration, cancer, and autoimmunity, and the investigation of novel tissue biomarkers in neurologic disease.
+: I am a neuropathologist and Assistant Professor of Pathology and Ophthalmology at the Yale School of Medicine, and I am the co-director of the [Yale Legacy Tissue Donation Program](https://m.yale.edu/yltdp). My background is in biomedical engineering and neuroscience, particularly the development and application of signal processing and image analysis algorithms and techniques for biology. I did my clinical training at Harvard Medical school in Anatomic Pathology (Beth Isreal Deaconess Medical Center) and Neuropathology (Brigham and Women's / Boston Childrens Hospital). Building from my PhD work at SUNY Downstate/NYU-Polytech recording in-vivo electrophysiologic data from awake behaving animals to for neural prostheses, I have developed an interest in furthering our understanding of human neurobiology by applying new algorithms to digital images, particularly in histology, along with physiologic and genomic data. The goals of my current research are to use these tools to explore the interactions between the immune and central nervous system in disease processes such as neurodegeneration, cancer, and autoimmunity, and the investigation of novel tissue biomarkers in neurologic disease.
 
 <br>
 
@@ -18,18 +18,10 @@ Sagar Bhatta - Post-graduate Research Associate
 
 <br>
 
-![Jacki Moses headshot](/assets/img/lab_member_photos/JackiMoses.jpg){:height="120px"} &nbsp;
-Jacki Moses - Undergrad Researcher
-: Jacki is a senior undergraduate student at Yale University from North Haven, Connecticut. She is majoring in Neuroscience with aspirations of attending medical school. She is especially interested in neuro-oncology research, with a particular focus on leveraging the power of machine learning for the advancement of brain tumor diagnostics. Outside of working as an intern for Yale Cancer Center and her research in neuro-oncology, Jacki enjoys learning about affordability and equity of medical care and the intersection of healthcare and law.
-
-<br>
-
-![Joy Wang headshot](/assets/img/lab_member_photos/JoyWang.jpg){:height="120px"} &nbsp;
-Joy Wang - Graduate Researcher
-: Joy is currently enrolled in the Health Informatics graduate program at Yale University, having previously earned a Bachelor's degree in Physical Therapy from National Taiwan University. Having transitioned from a role as a clinical physical therapist, she dived into research and worked as a data analyst in Pancreatic Cancer project observing the relationship between cognitive and physical function and its impact on patient’s survival in National Cheng Kung University Hospital. During the summer at Yale, she broadened her expertise as a Data Scientist Intern at Jubo Health Technologies and identify long-term care residents’ expenditure patterns and its related factors. Currently, she also works in Dr. McDougal’s lab at Yale to conduct work in Computational modeling of brain structure and function. She is interested in utilizing health data to promotes personalized therapy and healthcare decision making. Beyond academia, she finds joy in interacting with pets and nurturing plants.
-
 ### Alumni
 
 * Dean Pucciarelli
 * Sydney Zink
+* Jacki Moses
+* Joy Wang
 
