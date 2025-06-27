@@ -18,6 +18,12 @@ Sagar Bhatta - Post-graduate Research Associate
 
 <br>
 
+![Alayna Grzybowski headshot](/assets/img/lab_member_photos/AlaynaGrzybowski.jpg){:height="120px"} &nbsp;
+Alayna Grzybowski - Post-graduate Research Associate
+: Alayna completed her bachelor’s degree in Biology at Vassar College. During her time at Vassar, she conducted an independent research project that investigated the function of LGR receptors in coral reproductive behavior. Additionally, she assessed a combination drug therapy for pancreatic ductal adenocarcinoma that targeted polyamine metabolism as part of a mentored research project. She also worked in Dr. Guzzo’s lab at UConn Health, where she examined the role of Dot1L and H3K79me2 in bone and cartilage development, specifically in growth plate dynamics and osteogenic differentiation. Outside of the lab, she volunteers with Sacred Heart University’s Project Limulus to collect data on horseshoe crabs in the Long Island Sound, and enjoys hobbies like painting, sewing, jewelry-making, and hiking.
+
+<br>
+
 ### Alumni
 
 * Dean Pucciarelli
