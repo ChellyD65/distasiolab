@@ -24,6 +24,13 @@ Alayna Grzybowski - Post-graduate Research Associate
 
 <br>
 
+
+![Gion Ortiz headshot](/assets/img/lab_member_photos/GionOrtiz.jpg){:height="120px"} &nbsp;
+Gion Ortiz - Visiting Undergraduate
+: Gion is currently completing his bachelor’s degree in Forensic Science at the University of New Haven. He is a certified nursing assistant and is currently working as a medical assistant, doing point of care testing, phlebotomy, administrative work, and more. Earlier in his degree, he interned at Yale’s Autopsy Service, and  volunteered in the Bridgeport Hospital Emergency Room, doing patient transport and stocking. Outside of academia, he enjoys reading, skating, and music.
+
+<br>
+
 ### Alumni
 
 * Dean Pucciarelli
