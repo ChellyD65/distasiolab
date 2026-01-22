@@ -7,7 +7,7 @@ Neuroimmunology
 
 ![Banner](/assets/img/ChP_Macrophage_Banner.jpg){:width="100%"} &nbsp;
 
-Our laboratory studies neuroimmunology with a focus on immune–neural interactions at the borders of the central nervous system. We investigate how immune cells at CNS interfaces such as the choroid plexus, meninges, and perivascular spaces shape brain homeostasis and contribute to neurological disease.
+Our laboratory studies neuroimmunology with a focus on interactions at the borders of the central nervous system. We investigate how immune cells at CNS interfaces such as the choroid plexus, meninges, and perivascular spaces shape brain homeostasis and contribute to neurological disease.
 
 Computational Biology
 ---------------------
