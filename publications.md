@@ -31,7 +31,7 @@ Publications
 
 * DiStasio M, Nagakura I, Nadler M, Anderson MP. **T-lymphocytes and Cytotoxic Astrocyte Blebs Correlate Across Autism Brains**. Annals of Neurology. 2019 18(6):885-898 doi: 10.1002/ana.25610. 
 
-*Slavin J, DiStasio M, Dellaripa P, Groff M. **Odontoid Cervical Gout Causing Atlantoaxial Instability: A Case Report**. Journal of Neurosurgery: Spine 1, 1–4 (2019). [[pdf]](/assets/pdf/2019_AutismLymphocytes.pdf)
+* Slavin J, DiStasio M, Dellaripa P, Groff M. **Odontoid Cervical Gout Causing Atlantoaxial Instability: A Case Report**. Journal of Neurosurgery: Spine 1, 1–4 (2019). [[pdf]](/assets/pdf/2019_AutismLymphocytes.pdf)
 
 * VanderLaan PA, Chen Y, DiStasio M, Rangachari D, Costa DB, Heher YK. **Molecular Testing Turnaround Time in Non-Small-Cell Lung Cancer: Monitoring a Moving Target**. Clin Lung Cancer. 2018 Sep;19(5):e589-e590. doi: 10.1016/j.cllc.2018.04.005. 
 
