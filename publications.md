@@ -5,7 +5,13 @@ permalink: /publications/
 
 Publications
 ------------
-* Bhatta S, Grzybowski A, Ortiz G, DiStasio M. **Mechanobiological Specialization of Choroid Plexus Macrophages Defined by Titin Expression**. 2026. 2026.01.20.700716. Preprint at [[bioRxiv]](https://doi.org/10.64898/2026.01.20.700716)
+* Newton AJH, Lytton WW, DiStasio M, McDougal RA. **Computer models predict differential dendritic vulnerability with ischemia and spreading depression**. PLoS Comput Biol. 2026 Sep 8;22(9):e1014701. doi: 10.1371/journal.pcbi.1014701. Online ahead of print. PubMed PMID: 42709853. [[doi]](https://doi.org/10.1371/journal.pcbi.1014701)
+
+* Bhatta S, Grzybowski A, Ortiz G, DiStasio M. **TTN+ macrophages are enriched in the human choroid plexus in Alzheimer's disease**. Cell Rep. 2026 Aug 14;45(8):117859. doi: 10.1016/j.celrep.2026.117859. Online ahead of print. PubMed PMID: 42599802. [[pdf]](/assets/pdf/2026_Bhatta_CellReports_ChP_TTN_Macrophages.pdf)
+
+* Wang YC, Guo A, Newton AJH, McDougal RA, Lytton WW, DiStasio MM. **Capillary Density and Neuronal Homeostasis in Human Primary Visual Cortex**. Microcirculation. 2026 May;33(4):e70064. doi: 10.1111/micc.70064. PubMed PMID: 42130231. [[pdf]](/assets/pdf/2026_Wang_CapillaryDensity.pdf)
+
+* Xue Y, Fei Y, DiStasio M, Miller SJ, Hafler BP, Liang L, Lee S, Zhou ZJ. **A hierarchical electrical synaptic circuit mechanism for integrative parallel visual processing in the retina**. Neuron. 2026 May 6;114(9):1651-1665.e6. doi: 10.1016/j.neuron.2025.12.042. Epub 2026 Feb 19. PubMed PMID: 41720091. 
 
 * Ugwuowo U, Faust B, Tang H, DiStasio M. **Adequate capture of spatial heterogeneity of Ki-67 proliferative index in meningiomas requires multiple tissue sections**. J Neuropathol Exp Neurol. 2025 Nov 1;84(11):1067-1070. doi: 10.1093/jnen/nlaf043. PubMed PMID: 40257502; PubMed Central PMCID: PMC12531482. [[pdf]](/assets/pdf/2025_ Ugwuowo et_al_-_Meningioma_Ki67_Heterogeneity.pdf)
 
@@ -15,7 +21,7 @@ Publications
 
 * Sun X, Xu C, Rocha JF, Liu C, Hollander-Bodie B, Goldman L, DiStasio M, Perlmutter M, Krishnaswamy S. **Hyperedge Representations with Hypergraph Wavelets: Applications to Spatial Transcriptomics**. ArXiv. 2024 Sep 14;. PubMed PMID: 39314512; PubMed Central PMCID: PMC11419178. [[doi]](https://doi.org/10.48550/arXiv.2409.09469)
 
-* Liao C, Walters BW, DiStasio M, Lesch BJ. **Human-specific epigenomic states in spermatogenesis**. Comput Struct Biotechnol J. 2024 Dec;23:577-588. doi: 10.1016/j.csbj.2023.12.037. eCollection 2024 Dec. PubMed PMID: 38274996; PubMed Central PMCID: PMC10809009. 
+* Liao C, Walters BW, DiStasio M, Lesch BJ. **Human-specific epigenomic states in spermatogenesis**. Comput Struct Biotechnol J. 2024 Dec;23:577-588. doi: 10.1016/j.csbj.2023.12.037. eCollection 2024 Dec. PubMed PMID: 38274996; PubMed Central PMCID: PMC10809009.
 
 * Pucciarelli D, Lu BY, Zlobec I, DiStasio M. **Beyond the Lab and Into the Hospital: An Outlook on the Clinical Utility of Spatial Omics Technologies**. GEN Biotechnology. 2023 2:5, 360-371. [[doi]](https://doi.org/10.1089/genbio.2023.0030) [[pdf]](/assets/pdf/2023_Puciarelli_et_al_SpatialOmics_Clinical.pdf)
 
